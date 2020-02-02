@@ -10,3 +10,5 @@ The terrain game object needs to hold the TerrainS script in its script componen
 ![](images/scVoronoiTesselation.png)
 ![](images/scDiamondSqaure.png)
 ![](images/scSplatTexturing.png)
+
+Edior Script is dependent on the "Editor GUI Table" asset pack obtained from: https://assetstore.unity.com/packages/tools/gui/editor-gui-table-108795
