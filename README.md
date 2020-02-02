@@ -12,3 +12,8 @@ The terrain game object needs to hold the TerrainS script in its script componen
 ![](images/scSplatTexturing.png)
 
 The edior script is dependent on the "Editor GUI Table" asset pack obtained from: https://assetstore.unity.com/packages/tools/gui/editor-gui-table-108795
+
+Here's a link to a video (no sound) of the scripts being used:
+https://www.dropbox.com/s/st03843jin3j46c/producralLandscapeGeneration%20EarlyDemonstrationVid.mp4?dl=0
+
+I hope to come back to this project in the future and add more features. 
